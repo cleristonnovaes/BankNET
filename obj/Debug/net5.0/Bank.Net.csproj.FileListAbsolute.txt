@@ -1,0 +1,16 @@
+/home/cleriston/Documentos/Bank.Net/bin/Debug/net5.0/Bank.Net
+/home/cleriston/Documentos/Bank.Net/bin/Debug/net5.0/Bank.Net.deps.json
+/home/cleriston/Documentos/Bank.Net/bin/Debug/net5.0/Bank.Net.runtimeconfig.json
+/home/cleriston/Documentos/Bank.Net/bin/Debug/net5.0/Bank.Net.runtimeconfig.dev.json
+/home/cleriston/Documentos/Bank.Net/bin/Debug/net5.0/Bank.Net.dll
+/home/cleriston/Documentos/Bank.Net/bin/Debug/net5.0/ref/Bank.Net.dll
+/home/cleriston/Documentos/Bank.Net/bin/Debug/net5.0/Bank.Net.pdb
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.csprojAssemblyReference.cache
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.AssemblyInfoInputs.cache
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.AssemblyInfo.cs
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.csproj.CoreCompileInputs.cache
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.dll
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/ref/Bank.Net.dll
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.pdb
+/home/cleriston/Documentos/Bank.Net/obj/Debug/net5.0/Bank.Net.genruntimeconfig.cache
